@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background-image: url("https://assets.ccbp.in/frontend/intermediate-rwd/dream-car-bg.png");
+    height: 100vh;
+    width: 1200px;
+
+}
+
+.head {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.container1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: auto;
+}
+
+.image {
+    height: 60px;
+}
